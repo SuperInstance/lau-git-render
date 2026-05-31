@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Rendering layer for git-native agents — A2A/A2UI bridge"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-git-render"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
